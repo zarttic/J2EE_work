@@ -1,0 +1,9 @@
+0:0:0:0:0:0:0:1 - - [26/Sep/2022:17:05:52 +0800] "GET /dev HTTP/1.1" 302 - http-bio-8888-exec-1 0
+0:0:0:0:0:0:0:1 - - [26/Sep/2022:17:05:52 +0800] "GET /dev/ HTTP/1.1" 200 1865 http-bio-8888-exec-3 10
+0:0:0:0:0:0:0:1 - - [26/Sep/2022:17:05:52 +0800] "GET /dev/styles.css HTTP/1.1" 200 2722 http-bio-8888-exec-4 3
+0:0:0:0:0:0:0:1 - - [26/Sep/2022:17:06:02 +0800] "GET /dev/work HTTP/1.1" 200 1867 http-bio-8888-exec-5 3
+0:0:0:0:0:0:0:1 - - [26/Sep/2022:17:06:15 +0800] "GET /dev/styles.css HTTP/1.1" 304 - http-bio-8888-exec-6 3
+0:0:0:0:0:0:0:1 - - [26/Sep/2022:17:06:15 +0800] "GET /dev/bootstrap.min.css.map HTTP/1.1" 404 1001 http-bio-8888-exec-7 2
+0:0:0:0:0:0:0:1 - - [26/Sep/2022:17:06:30 +0800] "GET /dev HTTP/1.1" 302 - http-bio-8888-exec-8 0
+0:0:0:0:0:0:0:1 - - [26/Sep/2022:17:06:30 +0800] "GET /dev/ HTTP/1.1" 304 - http-bio-8888-exec-9 2
+0:0:0:0:0:0:0:1 - - [26/Sep/2022:17:06:30 +0800] "GET /dev/bootstrap.min.css.map HTTP/1.1" 404 1001 http-bio-8888-exec-10 1
